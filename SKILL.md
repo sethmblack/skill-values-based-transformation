@@ -4,7 +4,7 @@ description: Guide organizational turnarounds through values recovery rather tha
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.5259
+  version: 1.0.5260
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - storytelling
